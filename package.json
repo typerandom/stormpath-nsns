@@ -1,0 +1,15 @@
+{
+  "name": "stormpath-nsns",
+  "version": "0.0.1",
+  "description": "For the lulz.",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Robin Orheden <robin@stormpath.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gravatar": "^1.3.0",
+    "hipchatter": "^0.2.0",
+    "moment": "^2.10.6",
+    "stormpath": "^0.12.0"
+  }
+}

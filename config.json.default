@@ -1,0 +1,14 @@
+{
+	"stormpath": {
+		"keyPath": "apiKey.properties",
+	},
+	"hipChat": {
+		"authToken": "(your hipchat auth token)",
+		"roomName": "User signups!"
+	},
+	"accountChangeService": {
+		"pollInterval": 60,
+		"historySize": 100,
+		"directoryUrl": "(href of stormpath directory to monitor)"
+	}
+}
